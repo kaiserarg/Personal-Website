@@ -1,0 +1,9 @@
+{
+    "companies" : [
+        {
+            "logo" : "./img/betterlogo.jpg",
+            "name" : "Better.com",
+            "position_time" : "Software Engineer Intern, Oct 2021 - Dec 2021"
+        }
+    ]
+}

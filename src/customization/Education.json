@@ -1,0 +1,9 @@
+{
+    "schools" : [{
+        "logo" : "./img/schoollogo1.png",
+        "name" : "New York University",
+        "degree" : "B.A., Computer Science",
+        "time" : "2021 - 2024"
+    }
+   ]
+}
